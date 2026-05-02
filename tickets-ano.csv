@@ -1,0 +1,100 @@
+id_pedido,id_cliente,fecha,hora,id_departamento,id_seccion,id_producto,nombre_producto,precio_unitario,cantidad,precio_total,importe,region,compra
+1,112108,02/02/2023,10,4,83,49683,Pepino Kirby,0.99,80,3.96,316.8,Nuevo Leon,Online
+1,112108,02/02/2023,10,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,80,9.8,784,Jalisco,Supermercado
+1,112108,02/02/2023,10,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,40,3.58,143.2,Cd. México,Abarrotes
+2,202279,03/02/2023,9,4,83,28985,Col Rizada OrgÃ¡nica de Michigan,2.55,40,5.1,204,Yucatan,Hipermercado
+2,202279,03/02/2023,9,4,83,17794,Zanahorias,0.95,100,4.75,475,Guerrero,Abastos
+3,205970,12/06/2023,17,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,80,5.96,476.8,Otros,Otros
+5,156122,21/10/2023,16,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,100,12.25,1225,Nuevo Leon,Online
+5,156122,21/10/2023,16,4,123,27966,Frambuesas OrgÃ¡nicas,2.85,140,19.95,2793,Jalisco,Supermercado
+5,156122,21/10/2023,16,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,60,5.37,322.2,Cd. México,Abarrotes
+10,135442,28/01/2023,8,4,24,24852,Banana,1.05,100,5.25,525,Yucatan,Hipermercado
+10,135442,28/01/2023,8,4,16,31717,Cilantro OrgÃ¡nico,0.69,100,3.45,345,Guerrero,Abastos
+10,135442,28/01/2023,8,4,24,47766,Aguacate OrgÃ¡nico,1.75,80,7,560,Otros,Otros
+10,135442,28/01/2023,8,4,83,4605,Cebollas Amarillas,0.85,80,3.4,272,Nuevo Leon,Online
+10,135442,28/01/2023,8,4,24,21137,Fresas OrgÃ¡nicas,2.49,80,9.96,796.8,Jalisco,Supermercado
+10,135442,28/01/2023,8,16,53,49235,Crema OrgÃ¡nica,1.15,140,8.05,1127,Cd. México,Abarrotes
+14,18194,13/12/2023,15,16,84,27845,Leche Entera OrgÃ¡nica,0.99,140,6.93,970.2,Yucatan,Hipermercado
+14,18194,13/12/2023,15,4,24,45066,Manzana Honeycrisp,1.55,100,7.75,775,Guerrero,Abastos
+18,118860,19/01/2023,20,7,115,44632,Agua con Gas de Pomelo,0.95,60,2.85,171,Otros,Otros
+18,118860,19/01/2023,20,4,123,27966,Frambuesas OrgÃ¡nicas,2.85,60,8.55,513,Nuevo Leon,Online
+18,118860,19/01/2023,20,4,83,46979,EspÃ¡rragos,1.95,80,7.8,624,Jalisco,Supermercado
+18,118860,19/01/2023,20,4,24,47766,Aguacate OrgÃ¡nico,1.75,100,8.75,875,Cd. México,Abarrotes
+19,83009,10/05/2023,17,4,123,42265,Zanahorias Baby OrgÃ¡nicas,1.25,100,6.25,625,Yucatan,Hipermercado
+20,182912,07/01/2023,17,4,24,24852,Banana,1.05,80,4.2,336,Guerrero,Abastos
+22,30822,06/10/2023,8,4,24,24852,Banana,1.05,140,7.35,1029,Otros,Otros
+22,30822,06/10/2023,8,4,83,46979,EspÃ¡rragos,1.95,120,11.7,1404,Nuevo Leon,Online
+23,68572,30/09/2023,18,4,24,47766,Aguacate OrgÃ¡nico,1.75,140,12.25,1715,Jalisco,Supermercado
+23,68572,30/09/2023,18,4,83,8518,Cebolla Roja OrgÃ¡nica,0.92,80,3.68,294.4,Cd. México,Abarrotes
+26,153404,08/01/2023,16,4,24,24852,Banana,1.05,40,2.1,84,Yucatan,Hipermercado
+26,153404,08/01/2023,16,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,80,5.96,476.8,Guerrero,Abastos
+26,153404,08/01/2023,16,4,24,47766,Aguacate OrgÃ¡nico,1.75,80,7,560,Otros,Otros
+27,129389,24/08/2023,20,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,100,12.25,1225,Nuevo Leon,Online
+27,129389,24/08/2023,20,4,24,47766,Aguacate OrgÃ¡nico,1.75,140,12.25,1715,Jalisco,Supermercado
+27,129389,24/08/2023,20,4,83,17794,Zanahorias,0.95,140,6.65,931,Cd. México,Abarrotes
+27,129389,24/08/2023,20,4,83,28985,Col Rizada OrgÃ¡nica de Michigan,2.55,140,17.85,2499,Yucatan,Hipermercado
+27,129389,24/08/2023,20,4,83,41950,Racimo de Tomates OrgÃ¡nicos,2.25,160,18,2880,Guerrero,Abastos
+28,98256,10/05/2023,13,4,24,47626,LimÃ³n Grande,0.62,60,1.86,111.6,Otros,Otros
+28,98256,10/05/2023,13,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,160,14.32,2291.2,Nuevo Leon,Online
+29,81606,26/05/2023,12,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,120,14.7,1764,Jalisco,Supermercado
+31,201744,25/02/2023,15,4,83,22935,Cebolla Amarilla OrgÃ¡nica,0.88,120,5.28,633.6,Cd. México,Abarrotes
+31,201744,25/02/2023,15,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,140,10.43,1460.2,Yucatan,Hipermercado
+31,201744,25/02/2023,15,4,16,31717,Cilantro OrgÃ¡nico,0.69,100,3.45,345,Guerrero,Abastos
+31,201744,25/02/2023,15,4,123,4920,Uvas Rojas sin Semillas,2.45,60,7.35,441,Otros,Otros
+32,119216,30/01/2023,19,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,40,4.9,196,Nuevo Leon,Online
+32,119216,30/01/2023,19,4,83,49683,Pepino Kirby,0.99,100,4.95,495,Jalisco,Supermercado
+32,119216,30/01/2023,19,4,123,4920,Uvas Rojas sin Semillas,2.45,160,19.6,3136,Cd. México,Abarrotes
+36,79431,14/12/2023,18,16,53,49235,Crema OrgÃ¡nica,1.15,80,4.6,368,Yucatan,Hipermercado
+36,79431,14/12/2023,18,4,83,46979,EspÃ¡rragos,1.95,120,11.7,1404,Guerrero,Abastos
+38,42756,29/04/2023,16,4,123,21616,RÃºcula Baby OrgÃ¡nica,1.55,100,7.75,775,Otros,Otros
+39,184886,21/03/2023,18,4,83,4605,Cebollas Amarillas,0.85,80,3.4,272,Nuevo Leon,Online
+39,184886,21/03/2023,18,4,24,28204,Manzana Fuji OrgÃ¡nica,1.45,40,2.9,116,Jalisco,Supermercado
+39,184886,21/03/2023,18,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,120,8.94,1072.8,Cd. México,Abarrotes
+42,89125,05/02/2023,20,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,80,9.8,784,Yucatan,Hipermercado
+47,191597,10/02/2023,0,4,24,16797,Fresas,2.05,160,16.4,2624,Guerrero,Abastos
+47,191597,10/02/2023,0,4,123,39275,ArÃ¡ndanos OrgÃ¡nicos,2.75,60,8.25,495,Otros,Otros
+52,27498,10/05/2023,10,4,24,24852,Banana,1.05,20,1.05,21,Nuevo Leon,Online
+52,27498,10/05/2023,10,4,83,49683,Pepino Kirby,0.99,100,4.95,495,Jalisco,Supermercado
+53,87889,19/01/2023,20,4,24,24852,Banana,1.05,80,4.2,336,Cd. México,Abarrotes
+53,87889,19/01/2023,20,4,24,37646,Manzanas Gala OrgÃ¡nicas,1.98,160,15.84,2534.4,Yucatan,Hipermercado
+53,87889,19/01/2023,20,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,40,3.58,143.2,Guerrero,Abastos
+53,87889,19/01/2023,20,4,123,40706,Tomates Cherry OrgÃ¡nicos,2.55,100,12.75,1275,Otros,Otros
+53,87889,19/01/2023,20,4,24,5876,LimÃ³n OrgÃ¡nico,0.72,140,5.04,705.6,Nuevo Leon,Online
+53,87889,19/01/2023,20,4,123,39275,ArÃ¡ndanos OrgÃ¡nicos,2.75,100,13.75,1375,Jalisco,Supermercado
+53,87889,19/01/2023,20,4,24,47626,LimÃ³n Grande,0.62,100,3.1,310,Cd. México,Abarrotes
+54,91977,04/02/2023,15,4,24,24852,Banana,1.05,80,4.2,336,Yucatan,Hipermercado
+55,127522,06/05/2023,14,4,24,5876,LimÃ³n OrgÃ¡nico,0.72,60,2.16,129.6,Guerrero,Abastos
+55,127522,06/05/2023,14,4,123,27966,Frambuesas OrgÃ¡nicas,2.85,120,17.1,2052,Otros,Otros
+55,127522,06/05/2023,14,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,100,12.25,1225,Nuevo Leon,Online
+55,127522,06/05/2023,14,4,83,30391,Pepino OrgÃ¡nico,1.02,40,2.04,81.6,Jalisco,Supermercado
+55,127522,06/05/2023,14,4,83,8518,Cebolla Roja OrgÃ¡nica,0.92,100,4.6,460,Cd. México,Abarrotes
+55,127522,06/05/2023,14,4,83,41950,Racimo de Tomates OrgÃ¡nicos,2.25,100,11.25,1125,Yucatan,Hipermercado
+56,41591,19/03/2023,12,4,83,24964,Ajo OrgÃ¡nico,0.98,100,4.9,490,Guerrero,Abastos
+56,41591,19/03/2023,12,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,80,7.16,572.8,Otros,Otros
+56,41591,19/03/2023,12,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,100,7.45,745,Nuevo Leon,Online
+57,34016,07/01/2023,8,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,100,7.45,745,Jalisco,Supermercado
+57,34016,07/01/2023,8,4,24,21137,Fresas OrgÃ¡nicas,2.49,60,7.47,448.2,Cd. México,Abarrotes
+57,34016,07/01/2023,8,4,24,19057,Manzana Fuji Extra Grande OrgÃ¡nica,1.82,80,7.28,582.4,Yucatan,Hipermercado
+57,34016,07/01/2023,8,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,140,12.53,1754.2,Guerrero,Abastos
+58,150647,08/02/2023,8,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,100,12.25,1225,Otros,Otros
+58,150647,08/02/2023,8,4,123,42265,Zanahorias Baby OrgÃ¡nicas,1.25,140,8.75,1225,Nuevo Leon,Online
+60,66984,26/03/2023,10,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,160,19.6,3136,Jalisco,Supermercado
+60,66984,26/03/2023,10,4,24,37646,Manzanas Gala OrgÃ¡nicas,1.98,100,9.9,990,Cd. México,Abarrotes
+60,66984,26/03/2023,10,4,123,27966,Frambuesas OrgÃ¡nicas,2.85,100,14.25,1425,Yucatan,Hipermercado
+60,66984,26/03/2023,10,4,83,22935,Cebolla Amarilla OrgÃ¡nica,0.88,80,3.52,281.6,Guerrero,Abastos
+60,66984,26/03/2023,10,4,83,17794,Zanahorias,0.95,80,3.8,304,Otros,Otros
+61,12295,09/01/2023,9,4,123,42265,Zanahorias Baby OrgÃ¡nicas,1.25,100,6.25,625,Nuevo Leon,Online
+62,189943,29/01/2023,11,4,24,26209,Limones,0.68,140,4.76,666.4,Jalisco,Supermercado
+62,189943,29/01/2023,11,4,24,47766,Aguacate OrgÃ¡nico,1.75,120,10.5,1260,Cd. México,Abarrotes
+67,5738,25/01/2023,12,4,24,13176,Bolsa de Bananas OrgÃ¡nicas,2.45,100,12.25,1225,Yucatan,Hipermercado
+69,115481,15/03/2023,12,16,84,27845,Leche Entera OrgÃ¡nica,0.99,20,0.99,19.8,Guerrero,Abastos
+71,69984,08/05/2023,13,4,24,47209,Aguacate Hass OrgÃ¡nico,1.79,100,8.95,895,Otros,Otros
+71,69984,08/05/2023,13,4,24,5876,LimÃ³n OrgÃ¡nico,0.72,160,5.76,921.6,Nuevo Leon,Online
+71,69984,08/05/2023,13,4,16,31717,Cilantro OrgÃ¡nico,0.69,20,0.69,13.8,Jalisco,Supermercado
+71,69984,08/05/2023,13,4,24,26209,Limones,0.68,120,4.08,489.6,Cd. México,Abarrotes
+71,69984,08/05/2023,13,7,115,44632,Agua con Gas de Pomelo,0.95,100,4.75,475,Yucatan,Hipermercado
+72,199522,19/04/2023,19,4,24,28204,Manzana Fuji OrgÃ¡nica,1.45,160,11.6,1856,Guerrero,Abastos
+72,199522,19/04/2023,19,4,24,24852,Banana,1.05,60,3.15,189,Otros,Otros
+73,152590,25/06/2023,12,4,123,21903,Espinacas Baby OrgÃ¡nicas,1.49,100,7.45,745,Nuevo Leon,Online
+75,106387,06/01/2023,19,4,123,39275,ArÃ¡ndanos OrgÃ¡nicos,2.75,120,16.5,1980,Jalisco,Supermercado
+75,106387,06/01/2023,19,4,123,21616,RÃºcula Baby OrgÃ¡nica,1.55,40,3.1,124,Cd. México,Abarrotes
